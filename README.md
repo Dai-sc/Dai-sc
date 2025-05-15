@@ -1,16 +1,25 @@
-## Hi there 👋
+# Daiana Salcedo - Data Analyst | Marketing Data Specialist 📈
 
-<!--
-**Dai-sc/Dai-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola! Soy Daiana, una Analista de Datos con un enfoque especial en la intersección entre el análisis de datos y el marketing digital. Me apasiona utilizar los datos para optimizar las estrategias de marketing y mejorar la experiencia del cliente.
 
-Here are some ideas to get you started:
+**Mis áreas de experiencia incluyen:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📊 **Data Analytics:** Análisis exploratorio de datos (EDA), visualización de datos, análisis de KPIs.
+* 🎯 **Marketing Analytics:** Análisis del rendimiento de campañas, segmentación de clientes, personalización de contenido.
+
+**Herramientas y Tecnologías:**
+
+* 🐍 Python (Pandas, NumPy, Seaborn, Scikit-learn)
+* &#x2728; SQL
+* 📊 PowerBI
+* 📢 Conocimientos en RRSS, SEO, Copywriting, Meta Ads, Google Ads, Wordpress. 
+
+**Acerca de mí:**
+
+Soy una profesional proactiva, orientada a resultados, con excelentes habilidades de comunicación y capacidad para trabajar en equipo. Busco oportunidades para aplicar mis habilidades analíticas y de marketing para impulsar el crecimiento empresarial.
+
+**Encuéntrame en:**
+
+* <a str="https://www.linkedin.com/in/daiana-salcedo-847237364/">Mi LinkedIn</a>
+
+¡Gracias por visitar!
