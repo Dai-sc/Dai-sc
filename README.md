@@ -20,6 +20,7 @@ Soy una profesional proactiva, orientada a resultados, con excelentes habilidade
 
 **Encuéntrame en:**
 
-* <a str="https://www.linkedin.com/in/daiana-salcedo-847237364/">Mi LinkedIn</a>
+* [LinkedIn](https://www.linkedin.com/in/daiana-salcedo-847237364)
+
 
 ¡Gracias por visitar!
