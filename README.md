@@ -10,7 +10,7 @@ Hola! Soy Daiana, una Analista de Datos con un enfoque especial en la intersecci
 **Herramientas y Tecnologías:**
 
 * 🐍 Python (Pandas, NumPy, Seaborn, Scikit-learn)
-* &#x2728; SQL
+* 🛢 SQL
 * 📊 PowerBI
 * 📢 Conocimientos en RRSS, SEO, Copywriting, Meta Ads, Google Ads, Wordpress. 
 
