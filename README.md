@@ -27,57 +27,32 @@ Profesional proactiva y comprometida, con experiencia en atención al cliente y 
 
 ## ✨ Sobre Mí
 
-Soy una profesional proactiva y comprometida, con una clara **orientación al análisis de datos aplicada al marketing**. Mi objetivo es transformar datos en insights accionables que impulsen estrategias de crecimiento y optimicen la toma de decisiones.
+Soy una profesional apasionada por la **programación y la tecnología**, con una fuerte orientación al **Análisis de Datos** y su aplicación estratégica en el ámbito del **Marketing**. Mi objetivo es transformar datos complejos en insights accionables que impulsen el crecimiento, optimicen las estrategias y mejoren la toma de decisiones basada en evidencia.
 
-Mi trayectoria combina la **experiencia en gestión administrativa y soporte operativo**, lo que me ha brindado sólidas habilidades en **organización, planificación de tareas y resolución de problemas**. Esta base práctica se complementa con mi constante **actitud hacia el aprendizaje y la innovación tecnológica**.
+Me caracterizo por mi **proactividad, compromiso y una constante sed de conocimiento**. Disfruto resolviendo desafíos y aprendiendo nuevas tecnologías. Valoro la **escucha activa** y la **colaboración**, lo que me permite integrarme eficazmente en equipos multidisciplinarios y contribuir a soluciones innovadoras.
 
-Valoro profundamente la **escucha activa** y me siento cómoda **brindando ayuda y asesoramiento eficaz** cuando es requerido, lo que me permite una comunicación efectiva y orientada a la solución. Mi **capacidad de trabajo en equipo** y mi **adaptabilidad** son clave para colaborar en entornos multidisciplinarios y alcanzar objetivos comunes.
-
-## 📊 Habilidades Clave
+## 📊 Habilidades Técnicas y Analíticas
 
 ### Análisis de Datos & Marketing Analytics
 * **Análisis Exploratorio de Datos (EDA)**
 * **Visualización de Datos**
 * **Análisis de KPIs (Key Performance Indicators)**
-* **Análisis del rendimiento de campañas**
+* **Análisis del rendimiento de campañas de marketing**
 * **Segmentación de clientes y personalización de contenido**
-* **Manejo de Bases de Datos**
+* **Construcción de modelos predictivos y de recomendación** (en desarrollo con Henry Bootcamp)
 
-### Herramientas y Tecnologías
-* **Programación:** Python (Librerías: Pandas, NumPy, Seaborn, Scikit-learn)
+### Lenguajes y Herramientas
+* **Programación:** Python (Librerías: Pandas, NumPy, Seaborn, Scikit-learn, FastAPI)
 * **Bases de Datos:** SQL
 * **Visualización:** PowerBI
-* **Marketing Digital:** Conocimientos en RRSS (Redes Sociales), SEO, Copywriting, Meta Ads, Google Ads, WordPress.
+* **Control de Versiones:** Git / GitHub
+* **Marketing Digital (conocimientos):** RRSS (Redes Sociales), SEO, Copywriting, Meta Ads, Google Ads, WordPress.
 * **Ofimática:** Paquete Office (Excel, Word, PowerPoint)
-* **Diseño Gráfico:** Canva, CorelDraw, Photoshop
-
-### Gestión y Operaciones
-* Organización y Planificación de Tareas
-* Control de Inventario y Stock
-* Preparación y Actualización de Documentación
-* Gestión de Requerimientos y Comunicación con Proveedores
-* Soporte Operativo
-
-### Habilidades Blandas
-* Comunicación Efectiva (Escucha Activa, Comunicación Escrita, Asesoramiento)
-* Trabajo en Equipo
-* Adaptabilidad y Aprendizaje Rápido
-* Resolución de Problemas
-* Pensamiento Crítico
-* Proactividad e Iniciativa
-* Compromiso y Responsabilidad
-
-## 🎯 Mis Objetivos Profesionales
-
-Mi meta es desarrollarme como **Analista de Datos en el área de Marketing**, aplicando mis conocimientos técnicos y analíticos para:
-* Identificar oportunidades de mercado y tendencias de consumo.
-* Optimizar el rendimiento de las campañas de marketing.
-* Mejorar la experiencia del cliente a través de insights basados en datos.
-* Contribuir al crecimiento estratégico de las organizaciones.
+* **Diseño:** Canva, CorelDraw, Photoshop
 
 ## 📞 Conecta Conmigo
 
-¡Me encantaría conectar y explorar oportunidades!
+¡Me encantaría conectar y explorar oportunidades en el campo del Análisis de Datos y Marketing!
 
 * **Email:** ds.daiana.salcedo@gmail.com
 * **LinkedIn:** [Tu URL de LinkedIn]
