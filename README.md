@@ -1,4 +1,4 @@
-# Daiana Salcedo - Data Analyst | Marketing Data Specialist 📈
+# Data Analyst | Marketing Data Specialist 📈
 
 Soy una **entusiasta de la programación y la tecnología**, con una profunda pasión por el **Análisis de Datos** y su aplicación estratégica en el **Marketing**. Mi motivación es clara: transformar conjuntos de datos en historias coherentes y métricas accionables que guíen decisiones inteligentes y optimicen el rendimiento de las campañas.
 
