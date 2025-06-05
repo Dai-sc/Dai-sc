@@ -1,6 +1,6 @@
 # Daiana Salcedo - Data Analyst | Marketing Data Specialist 📈
 
-Hola! Soy Daiana, una Analista de Datos con un enfoque especial en la intersección entre el análisis de datos y el marketing digital. Me apasiona utilizar los datos para optimizar las estrategias de marketing y mejorar la experiencia del cliente.
+Profesional proactiva y comprometida, con experiencia en atención al cliente y gestión administrativa, complementada con una sólida base en análisis de datos y tecnología. Poseo habilidades en Python, SQL y PowerBI, así como dominio de herramientas de oficina y diseño gráfico. Destaco por mi capacidad de organización y planificación de tareas, excelente comunicación oral y escrita, y un fuerte compromiso con el trabajo en equipo y la resolución de problemas. Busco aplicar mi versatilidad y capacidad de aprendizaje rápido para contribuir al éxito de equipos multidisciplinarios en un entorno desafiante.  
 
 **Mis áreas de experiencia incluyen:**
 
@@ -13,10 +13,6 @@ Hola! Soy Daiana, una Analista de Datos con un enfoque especial en la intersecci
 * 🛢 SQL
 * 📊 PowerBI
 * 📢 Conocimientos en RRSS, SEO, Copywriting, Meta Ads, Google Ads, Wordpress. 
-
-**Acerca de mí:**
-
-Soy una profesional proactiva, orientada a resultados, con excelentes habilidades de comunicación y capacidad para trabajar en equipo. Busco oportunidades para aplicar mis habilidades analíticas y de marketing para impulsar el crecimiento empresarial.
 
 **Encuéntrame en:**
 
